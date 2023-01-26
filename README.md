@@ -5,7 +5,7 @@ This model presents a novel GCN-based face clustering framework, called as PSE-G
 
 The main framework of PSE-GCN is shown in the following:
 
-<img src=image/fig.png width=1000 height=345 />
+<img src=image/fig.png width=1000 height=200 />
 
 ## Main Results
 <img src=image/results.png width=900 height=355 />
