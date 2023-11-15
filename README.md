@@ -84,6 +84,19 @@ python main.py
 cd PSE-GCN
 python clustering.py part1_test, ./data/Out_feature/cluster_feature.npy
 ```
+### Citation
+If you find this work useful in your research, please consider citing:
+```
+@article{li2024progressive,
+  title={Progressive structure enhancement graph convolutional network for face clustering},
+  author={Li, Shaoying and Yao, Wei and Gao, Yuan and Ma, Yinchi and Liu, Bo},
+  journal={Engineering Applications of Artificial Intelligence},
+  volume={127},
+  pages={107274},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 
 
